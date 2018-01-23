@@ -7,7 +7,6 @@
 	   try
 	   {
 		   $connection = new PDO($dsn, $username, $password, $options);
-           /*fetch data code, select users from specified location*/
            
            $id  =   $_POST['id'];
 
