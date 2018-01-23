@@ -1,5 +1,5 @@
 <?php
-
+/*database credentials*/
 $dbname = 'test';
 $dbuser = 'user';
 $dbpass = 'password';
